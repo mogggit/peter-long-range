@@ -1,0 +1,8 @@
+{
+    "debug.hideSlowPreLaunchWarning": true,
+    "debug.showInStatusBar": "never",
+    "clangd.arguments": [
+        "--compile-commands-dir=c:\\Users\\Morris\\ECE342_Labs\\perter-long-range\\MDK-ARM\\out\\lab_05\\lab_05"
+    ],
+    "cmake.sourceDirectory": "C:/Users/Morris/ECE342_Labs/perter-long-range/MDK-ARM/tmp"
+}

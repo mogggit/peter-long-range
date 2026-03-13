@@ -1,0 +1,37 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/Users/Morris/ECE342_Labs/perter-long-range/MDK-ARM/tmp/CMakeFiles/lab_05+lab_05-database"
+		},
+		{
+			"file" : "C:/Users/Morris/ECE342_Labs/perter-long-range/MDK-ARM/tmp/CMakeFiles/lab_05+lab_05-database.rule"
+		},
+		{
+			"file" : "C:/Users/Morris/ECE342_Labs/perter-long-range/MDK-ARM/tmp/lab_05+lab_05/src/lab_05+lab_05-stamp/lab_05+lab_05-database.rule"
+		},
+		{
+			"file" : "C:/Users/Morris/ECE342_Labs/perter-long-range/MDK-ARM/tmp/lab_05+lab_05/src/lab_05+lab_05-stamp/lab_05+lab_05-configure.rule"
+		},
+		{
+			"file" : "C:/Users/Morris/ECE342_Labs/perter-long-range/MDK-ARM/tmp/lab_05+lab_05/src/lab_05+lab_05-stamp/lab_05+lab_05-patch.rule"
+		},
+		{
+			"file" : "C:/Users/Morris/ECE342_Labs/perter-long-range/MDK-ARM/tmp/lab_05+lab_05/src/lab_05+lab_05-stamp/lab_05+lab_05-update.rule"
+		},
+		{
+			"file" : "C:/Users/Morris/ECE342_Labs/perter-long-range/MDK-ARM/tmp/lab_05+lab_05/src/lab_05+lab_05-stamp/lab_05+lab_05-download.rule"
+		},
+		{
+			"file" : "C:/Users/Morris/ECE342_Labs/perter-long-range/MDK-ARM/tmp/lab_05+lab_05/src/lab_05+lab_05-stamp/lab_05+lab_05-mkdir.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"lab_05+lab_05"
+		],
+		"name" : "lab_05+lab_05-database"
+	}
+}

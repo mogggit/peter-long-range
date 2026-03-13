@@ -1,0 +1,10 @@
+# Target labels
+ lab_05+lab_05
+# Source files and their labels
+C:/Users/Morris/ECE342_Labs/perter-long-range/MDK-ARM/tmp/CMakeFiles/lab_05+lab_05-configure
+C:/Users/Morris/ECE342_Labs/perter-long-range/MDK-ARM/tmp/CMakeFiles/lab_05+lab_05-configure.rule
+C:/Users/Morris/ECE342_Labs/perter-long-range/MDK-ARM/tmp/lab_05+lab_05/src/lab_05+lab_05-stamp/lab_05+lab_05-configure.rule
+C:/Users/Morris/ECE342_Labs/perter-long-range/MDK-ARM/tmp/lab_05+lab_05/src/lab_05+lab_05-stamp/lab_05+lab_05-patch.rule
+C:/Users/Morris/ECE342_Labs/perter-long-range/MDK-ARM/tmp/lab_05+lab_05/src/lab_05+lab_05-stamp/lab_05+lab_05-update.rule
+C:/Users/Morris/ECE342_Labs/perter-long-range/MDK-ARM/tmp/lab_05+lab_05/src/lab_05+lab_05-stamp/lab_05+lab_05-download.rule
+C:/Users/Morris/ECE342_Labs/perter-long-range/MDK-ARM/tmp/lab_05+lab_05/src/lab_05+lab_05-stamp/lab_05+lab_05-mkdir.rule

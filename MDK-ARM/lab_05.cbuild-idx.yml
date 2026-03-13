@@ -1,0 +1,19 @@
+build-idx:
+  generated-by: csolution version 2.13.0+p3-g40b6564e
+  csolution: lab_05.csolution.yml
+  cbuild-run: out/lab_05+lab_05.cbuild-run.yml
+  tmpdir: tmp
+  cprojects:
+    - cproject: lab_05.cproject.yml
+  cbuilds:
+    - cbuild: out/lab_05/lab_05/lab_05+lab_05.cbuild.yml
+      project: lab_05
+      configuration: +lab_05
+      messages:
+        info:
+          - lab_05.cbuild-pack.yml - file is already up-to-date
+          - lab_05+lab_05.cbuild-run.yml - file generated successfully
+          - lab_05+lab_05.cbuild.yml - file is already up-to-date
+      packs-unused:
+        - pack: ARM::CMSIS-DSP@1.17.0
+        - pack: ARM::CMSIS-NN@4.1.0

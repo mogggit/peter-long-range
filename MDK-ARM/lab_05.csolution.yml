@@ -1,0 +1,18 @@
+solution:
+  created-by: uv2csolution@1.6.0
+  created-for: CMSIS-Toolbox@2.12.0
+  compiler: AC6@6.24.0
+  target-types:
+    - type: lab_05
+      device: STM32F446ZETx
+      optimize: debug
+      target-set:
+        - set:
+          images:
+            - project-context: lab_05
+          debugger:
+            name: ST-Link@pyOCD
+            clock: 4000000
+            protocol: swd
+  projects:
+    - project: lab_05.cproject.yml
