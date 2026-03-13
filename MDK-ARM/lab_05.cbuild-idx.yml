@@ -12,7 +12,7 @@ build-idx:
       messages:
         info:
           - lab_05.cbuild-pack.yml - file is already up-to-date
-          - lab_05+lab_05.cbuild-run.yml - file generated successfully
+          - lab_05+lab_05.cbuild-run.yml - file is already up-to-date
           - lab_05+lab_05.cbuild.yml - file is already up-to-date
       packs-unused:
         - pack: ARM::CMSIS-DSP@1.17.0
