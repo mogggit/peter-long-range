@@ -1,8 +1,0 @@
-C:/Users/Morris/ECE342_Labs/perter-long-range/MDK-ARM/tmp/CMakeFiles/database.dir
-C:/Users/Morris/ECE342_Labs/perter-long-range/MDK-ARM/tmp/CMakeFiles/lab_05+lab_05.dir
-C:/Users/Morris/ECE342_Labs/perter-long-range/MDK-ARM/tmp/CMakeFiles/lab_05+lab_05-build.dir
-C:/Users/Morris/ECE342_Labs/perter-long-range/MDK-ARM/tmp/CMakeFiles/lab_05+lab_05-configure.dir
-C:/Users/Morris/ECE342_Labs/perter-long-range/MDK-ARM/tmp/CMakeFiles/lab_05+lab_05-executes.dir
-C:/Users/Morris/ECE342_Labs/perter-long-range/MDK-ARM/tmp/CMakeFiles/lab_05+lab_05-database.dir
-C:/Users/Morris/ECE342_Labs/perter-long-range/MDK-ARM/tmp/CMakeFiles/edit_cache.dir
-C:/Users/Morris/ECE342_Labs/perter-long-range/MDK-ARM/tmp/CMakeFiles/rebuild_cache.dir
