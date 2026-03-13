@@ -1,43 +1,37 @@
-# Prerequisites
+# --- Keil MDK Project Files ---
+*.uvgui.*
+*.uvguix.*
+*.uvopt
+*.uvoptx
+*.bak
+*.uv2.bak
+
+# --- Build Outputs ---
+Objects/
+Listings/
+DebugConfig/
+RTE/
+*.txt
+*.dep
+*.lst
+*.m51
+*.pbi
+*.tmp
+*.iex
+*.htm
+*.lnp
+*.sct
+*.map
+*.axf
+*.elf
+*.hex
+*.bin
+*.crf
+*.o
 *.d
 
-# Compiled Object files
-*.slo
-*.lo
-*.o
-*.obj
-
-# Precompiled Headers
-*.gch
-*.pch
-
-# Linker files
-*.ilk
-
-# Debugger Files
-*.pdb
-
-# Compiled Dynamic libraries
-*.so
-*.dylib
-*.dll
-
-# Fortran module files
-*.mod
-*.smod
-
-# Compiled Static libraries
-*.lai
-*.la
-*.a
-*.lib
-
-# Executables
-*.exe
-*.out
-*.app
-
-# debug information files
-*.dwo
-
+# --- VS Code Files ---
 .vscode/
+
+# --- Tool Specifics ---
+.mxproject
